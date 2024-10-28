@@ -1,4 +1,4 @@
-<companies>
+<products>
     <phone pn="1">
         <id>11</id>
         <name>Samsung</name>
@@ -22,4 +22,4 @@
         <stock>100</stock>
         <status>1</status>
     </phone>
-</companies>
+</products>
